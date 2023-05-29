@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b279a29e43dbd4da2397b2f3c4a3f8, type: 3}
+  m_Name: Prehistory
+  m_EditorClassIdentifier: 
+  periodName: Prehistory
+  imageScriptables:
+  - {fileID: 11400000, guid: 8cf87bbc43af52f4bbe65f41f320286b, type: 2}
+  - {fileID: 11400000, guid: 8e8e587bffd850c43add43d70254316d, type: 2}
+  infoText: "      The prehistoric era in world history kicked off around 3 million
+    years ago, when our handy friend homo habilis appeared on the scene. In Europe,
+    about 1.8 million years ago, his successor, homo erectus - the upright man -
+    showed up. The first signs of human activity on our continent are traced back
+    to what is now Spain. But here's the thing: even though this is the longest period
+    in human history, we don't know a ton about the music or cultural development
+    because it's really hard to study.\r\n\nWe do think, though, that music has been
+    hanging out with humans since the get-go, serving all kinds of purposes.\r\nThere
+    are a few theories about what music might have meant to early humans. Maybe it
+    was tied to the development of speech, human or bird calls, and shouts.\n\nThese
+    calls also played a part in communication. Music was probably also tied to human
+    emotions, expressed through primal shouts; or to movement, like clapping, stomping,
+    hitting different body parts, and creating all sorts of sounds that way.\r\n\nThis
+    last theory is backed up by the discovery of prehistoric instruments. Mainly,
+    we're talking about drums made from hollow tree trunks, things that could be
+    hit: sticks, slabs, tubes, and rattles made from organic materials.\r\nFrom the
+    Paleolithic era, we have the first flutes, whistles, and pipes made from bones,
+    like bird or reindeer bones, with holes made by humans. One of the most famous
+    finds from the Ice Age is a 5-hole flute found in the Hohle Fels cave in Germany.
+    It's dated to about 35,000 years ago, and the coolest part is, the holes are
+    arranged in such a way that it can play a pentatonic scale - a scale still used
+    today, especially in popular music like blues, rock, jazz, pop.\n\r\nFrom the
+    Bronze Age, we have metal horns, which were built to resemble animal horns. This
+    instrument was probably used for communication (it could be heard from a long
+    distance) and was used during hunts. Excavations and cave paintings indicate
+    the instrument was primarily found in Scandinavia - Denmark, Sweden, and Norway.
+    It's called the Lur.\r\n\nWe also learn about the prehistoric era from cave paintings.
+    From these sources, we can tell that music had a ritual and magical function.
+    It was present during important tribal events, connected with fertility, celebrating
+    births and deaths, initiation rituals, hunting, symbolism of the seasons, earth,
+    moon phases, and so on.\r"
+  periodTracks:
+  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
+  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
+  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
