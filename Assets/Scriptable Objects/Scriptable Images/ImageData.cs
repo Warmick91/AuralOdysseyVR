@@ -1,6 +1,7 @@
 using UnityEngine;
 
-public abstract class ImageData : ScriptableObject
+[CreateAssetMenu(fileName = "PeriodImage", menuName = "Scriptable Objects/Images/PeriodImage")]
+public class ImageData : ScriptableObject
 {
     [SerializeField]
     protected string imageTitle;

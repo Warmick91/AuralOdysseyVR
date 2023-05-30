@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   periodName: Prehistory
   imageScriptables:
-  - {fileID: 11400000, guid: 8cf87bbc43af52f4bbe65f41f320286b, type: 2}
-  - {fileID: 11400000, guid: 8e8e587bffd850c43add43d70254316d, type: 2}
+  - {fileID: 11400000, guid: d95fe6a48809f8b4796f643665b310c7, type: 2}
+  - {fileID: 11400000, guid: ded93a09c4f142b4da363ab441cca93b, type: 2}
+  - {fileID: 11400000, guid: 17e5ff1e9b9d68241abb82862153169c, type: 2}
   infoText: "      The prehistoric era in world history kicked off around 3 million
     years ago, when our handy friend homo habilis appeared on the scene. In Europe,
     about 1.8 million years ago, his successor, homo erectus - the upright man -
