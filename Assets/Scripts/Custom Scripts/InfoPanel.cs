@@ -10,22 +10,13 @@ public class InfoPanel : MonoBehaviour
     [SerializeField] private MusicalPeriod musicalPeriodScriptableObject;
 
     // Information fields
+    [SerializeField]
     private TextMeshProUGUI periodNameField;
-    private TextMeshProUGUI infoTextField;
-    private Image imageField;
 
-    void Awake()
-    {
-        try
-        {
-            periodNameField = this.transform.Find("Background Panel/Period Name").GetComponent<TextMeshProUGUI>();
-            infoTextField = this.transform.Find("Background Panel/Text Control Panel/Period Info").GetComponent<TextMeshProUGUI>();
-        }
-        catch (NullReferenceException e)
-        {
-            Debug.Log(e);
-        }
-    }
+    [SerializeField]
+    private TextMeshProUGUI infoTextField;
+
+    private Image imageField;
 
     void Start()
     {

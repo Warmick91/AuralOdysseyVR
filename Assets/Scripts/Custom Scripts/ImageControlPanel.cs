@@ -22,6 +22,9 @@ public class ImageControlPanel : MonoBehaviour
 
     private int currentImage;
 
+    // [SerializeField]
+    // private AspectRatioFitter aspectRatioFitter;
+
     private List<ImageData> listOfImageScriptables;
 
     void Start()
@@ -34,6 +37,7 @@ public class ImageControlPanel : MonoBehaviour
             currentImage = 0;
             SetAllImageData();
         }
+
     }
 
     public void NextImage()
@@ -59,6 +63,7 @@ public class ImageControlPanel : MonoBehaviour
     private void SetImage()
     {
         imageField.sprite = listOfImageScriptables[currentImage].GetImage();
+        UpdateSpriteSize();
     }
 
     private void SetImageTitle()
@@ -76,6 +81,27 @@ public class ImageControlPanel : MonoBehaviour
         dateField.text = listOfImageScriptables[currentImage].GetImageDate();
     }
 
+    private void UpdateSpriteSize()
+    {
+        if (imageField.sprite != null)
+        {
+            // Update the AspectRatioFitter's aspect ratio to match the sprite's width/height
+            Sprite image = listOfImageScriptables[currentImage].GetImage();
+            float newRatio = image.rect.width / image.rect.height;
+
+            Debug.Log("Image.name: " + image.name);
+            Debug.Log("Image.rect.width: " + image.rect.width);
+            Debug.Log("Image.rect.height: " + image.rect.height);
+
+            //aspectRatioFitter.aspectRatio = newRatio;
+
+        }
+        else
+        {
+            Debug.Log("UpdateSpriteSize() didn't find a sprite!");
+        }
+    }
+
     private void SetAllImageData()
     {
         SetImage();
@@ -83,4 +109,5 @@ public class ImageControlPanel : MonoBehaviour
         SetImageAuthor();
         SetImageDate();
     }
+
 }
