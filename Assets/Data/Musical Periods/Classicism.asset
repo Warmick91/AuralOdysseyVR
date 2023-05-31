@@ -13,21 +13,67 @@ MonoBehaviour:
   m_Name: Classicism
   m_EditorClassIdentifier: 
   periodName: Classicism
-  image: {fileID: 21300000, guid: 3f1be6e4397e8dc448f8f3601c8a9b0a, type: 3}
-  infoText: CLASSICISM Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-    diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam facilisis
-    in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt bibendum
-    a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur dignissim
-    erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante a, iaculis
-    auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam commodo
-    sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo nec blandit.
-    Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor. In hendrerit
-    risus vitae nisi molestie mollis. Mauris pretium magna pellentesque luctus malesuada.
-    Donec condimentum, nulla eu ornare suscipit, nisl odio gravida mauris, sit amet
-    laoreet mi urna sed arcu. Etiam at tortor a nulla convallis tincidunt id in tellus.
-    Praesent vel tristique justo, eu blandit leo. Mauris gravida orci sed neque fermentum,
-    fermentum semper sem feugiat.
+  imageScriptables:
+  - {fileID: 11400000, guid: e542d5b340c01cc49b0b2d80a754d4fb, type: 2}
+  - {fileID: 11400000, guid: b05fd600330ade54ba8c7dce53dd815b, type: 2}
+  - {fileID: 11400000, guid: d6d8c3e4fa2c00349bf9e11e18406ebf, type: 2}
+  infoText: '     Think of "Classicism" as a style that was really popular in music,
+    books, and buildings around the 18th century in Europe. This style was all about
+    looking back to the time of the Ancient Greeks and Romans, trying to capture
+    their sense of perfection, harmony and order.
+
+    
+
+    In music, this meant
+    tunes in major-minor scales, pieces that were clearly organized, often broken
+    into different sections, showing off skill (what we call virtuosity), and introducing
+    what we now know as classical instruments.
+
+    
+
+    The music was mostly
+    made up of one main melody supported by a backing track (we call this homophony).
+    This was different from earlier music where several melodies had equal importance
+    and were played at the same time.
+
+    
+
+    The kinds of pieces they wrote
+    back then included symphonies (like a big musical journey for an orchestra),
+    suites (a sequence of short musical pieces), instrumental concertos (a solo instrument
+    backed up by an orchestra), and lighter, fun pieces called divertimentos.
+
+    
+
+    They
+    also continued to write vocal music like operas (drama set to music), oratorios
+    (like an opera but based on religious stories), and cantatas (like a mini oratorio).
+    They even had songs that were either sung a capella (without instruments) or
+    with instrument backup.
+
+    
+
+    Classicism was a time when music became
+    a big deal for everyone, not just the kings and nobles. This led to more public
+    theaters and music groups, public concerts, and more people learning to play
+    instruments. It was also a time of invention and improvement of musical instruments,
+    the piano being the star invention of this time.
+
+    
+
+    In Europe, the
+    rock stars of Classicism were the "Viennese classics" - Joseph Haydn, Wolfgang
+    Amadeus Mozart, and Ludwig van Beethoven. They set the stage for many musical
+    forms like the opera, symphony, and concertos, they also decided the rules of
+    how to structure music pieces, which we still follow to this day.
+
+    
+
+    Some
+    of the biggest hits of this time were Haydn''s Symphony in G Major, Mozart''s
+    opera The Magic Flute and his party piece Eine kleine Nachtmusik, and Beethoven''s
+    Symphony No. 5 and Symphony No. 9.'
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: 7e816118e136fc942a3123f517603bd4, type: 3}
+  - {fileID: 8300000, guid: b757b7f7e0de3064ab71a902a2e934c9, type: 3}
+  - {fileID: 8300000, guid: 46705c55b85490f488b916b7f445cbd2, type: 3}

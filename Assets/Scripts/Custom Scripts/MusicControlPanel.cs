@@ -129,5 +129,7 @@ public class MusicControlPanel : MonoBehaviour
         {
             mainAudioSource.clip = periodTracks[currentTrack];
         }
+
+        dropdownTracks.value = currentTrack;
     }
 }

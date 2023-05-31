@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Antiquity
   m_EditorClassIdentifier: 
   periodName: Antiquity
-  images:
-  - {fileID: 21300000, guid: bd8293ba2d8aa5549b307afb00d9f700, type: 3}
-  - {fileID: 21300000, guid: 3f1be6e4397e8dc448f8f3601c8a9b0a, type: 3}
+  imageScriptables:
+  - {fileID: 11400000, guid: 197cc977209189a489af603d585ad155, type: 2}
+  - {fileID: 11400000, guid: 063e7fc8168834844838d9be72a395b7, type: 2}
   infoText: ANTIQUITY Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
     diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam facilisis
     in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt bibendum
@@ -30,6 +30,6 @@ MonoBehaviour:
     Praesent vel tristique justo, eu blandit leo. Mauris gravida orci sed neque fermentum,
     fermentum semper sem feugiat.
   periodTracks:
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: 0baa6ded586679245920057871fc2760, type: 3}
+  - {fileID: 8300000, guid: 90c899b12a12b0f448131e002472082a, type: 3}
+  - {fileID: 8300000, guid: 96f7c57fde170a947914dd86e84957ce, type: 3}

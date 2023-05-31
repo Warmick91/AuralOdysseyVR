@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: MiddleAges
   m_EditorClassIdentifier: 
   periodName: Middle Ages
-  image: {fileID: 21300000, guid: 3f1be6e4397e8dc448f8f3601c8a9b0a, type: 3}
+  imageScriptables:
+  - {fileID: 11400000, guid: da10235666e4cac46810dbf264d41e2a, type: 2}
+  - {fileID: 11400000, guid: fd431116bab2c94449c0bd408cec91f4, type: 2}
   infoText: MIDDLE AGES Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Aliquam diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam
     facilisis in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt
@@ -28,6 +30,5 @@ MonoBehaviour:
     tincidunt id in tellus. Praesent vel tristique justo, eu blandit leo. Mauris
     gravida orci sed neque fermentum, fermentum semper sem feugiat.
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: 308832778b38479479673de94e0180fe, type: 3}
+  - {fileID: 8300000, guid: dac9c17b741af0645be243aedca98511, type: 3}

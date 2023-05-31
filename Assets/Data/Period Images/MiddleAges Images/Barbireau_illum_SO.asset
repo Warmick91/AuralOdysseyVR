@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b52e44959a2f984a94f19d242b3a68d, type: 3}
+  m_Name: Barbireau_illum_SO
+  m_EditorClassIdentifier: 
+  imageTitle: Missa Virgo Parens Christi by Jacques Barbireau
+  image: {fileID: 21300000, guid: 66b290684f8c0bd4b9a5a46aab2f668a, type: 3}
+  imageAuthor: Photo by Library of Congress
+  imageDate: Late 15th century composition
