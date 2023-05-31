@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b52e44959a2f984a94f19d242b3a68d, type: 3}
   m_Name: NewGuinea_Rattle_SO
   m_EditorClassIdentifier: 
-  imageTitle: A rattle made made of leaves, seeds and a coconut shell
+  imageTitle: A rattle from New Guinea
   image: {fileID: 21300000, guid: cc01d35bb2f1c484fbfd6ddbcd77eca4, type: 3}
   imageAuthor: Photo by Queensland Museum
   imageDate: Unknown date

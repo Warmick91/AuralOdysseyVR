@@ -17,6 +17,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d95fe6a48809f8b4796f643665b310c7, type: 2}
   - {fileID: 11400000, guid: ded93a09c4f142b4da363ab441cca93b, type: 2}
   - {fileID: 11400000, guid: 17e5ff1e9b9d68241abb82862153169c, type: 2}
+  - {fileID: 11400000, guid: 9cb8cb9e15da01a489f6e5cef45cca91, type: 2}
   infoText: "      The prehistoric era in world history kicked off around 3 million
     years ago, when our handy friend homo habilis appeared on the scene. In Europe,
     about 1.8 million years ago, his successor, homo erectus - the upright man -
@@ -49,6 +50,5 @@ MonoBehaviour:
     births and deaths, initiation rituals, hunting, symbolism of the seasons, earth,
     moon phases, and so on.\r"
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: f8d97e49a2f460243833bd750f97fe43, type: 3}
+  - {fileID: 8300000, guid: b633d5fea54b081408d387fab0fd069b, type: 3}

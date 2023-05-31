@@ -3,13 +3,14 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "PeriodImage", menuName = "Scriptable Objects/Images/PeriodImage")]
 public class ImageData : ScriptableObject
 {
+    [TextArea(3, 3)]
     [SerializeField]
     protected string imageTitle;
 
     [SerializeField]
     protected Sprite image;
 
-    [TextArea(3, 3)]
+    [TextArea(1, 2)]
     [SerializeField]
     protected string imageAuthor;
 
