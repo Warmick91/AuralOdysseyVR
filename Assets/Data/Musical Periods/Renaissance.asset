@@ -13,20 +13,40 @@ MonoBehaviour:
   m_Name: Renaissance
   m_EditorClassIdentifier: 
   periodName: Renaissance
-  image: {fileID: 21300000, guid: bd8293ba2d8aa5549b307afb00d9f700, type: 3}
-  infoText: RENAISSANCE Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aliquam diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam
-    facilisis in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt
-    bibendum a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur
-    dignissim erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante
-    a, iaculis auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam
-    commodo sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo
-    nec blandit. Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor.
-    In hendrerit risus vitae nisi molestie mollis. Mauris pretium magna pellentesque
-    luctus malesuada. Donec condimentum, nulla eu ornare suscipit, nisl odio gravida
-    mauris, sit amet laoreet mi urna sed arcu. Etiam at tortor a nulla convallis
-    tincidunt id in tellus. Praesent vel tristique justo, eu blandit leo. Mauris
-    gravida orci sed neque fermentum, fermentum semper sem feugiat.
+  imageScriptables: []
+  infoText: "     The Renaissance in music happened from the first half of the 15th
+    century and ran until around 1600. This period was when the opera genre started
+    to pop up and marked a new chapter in music history.\r\n\nThe music of the Renaissance
+    was really like a continuation of the Medieval period's achievements, mainly
+    vocal music and the development of polyphony. But this time, they really stepped
+    up the game. The polyphony got more complex and relied on more sophisticated
+    compositional techniques. They had tricks like quoting a melody from one composition
+    in another (the parody technique), imitating the melody of one voice in the next
+    (which is pretty clear in a canon, like in the popular melody \"Panie Janie\"),
+    or mimicking sounds of nature or surroundings (imitazione della natura).\r\n\nVocal
+    music was still going strong, with vocalists singing in quartets, quintets, sextets,
+    etc. Choirs sang, and towards the end of the period, they even started to introduce
+    multi-choir compositions. These were pieces created for multiple choirs placed
+    in different parts of the church to create a feeling of spacious sound enveloping
+    the listeners.\r\n\nVocal music still had a religious vibe and was primarily
+    used for church services. That's why the most popular genres in the Renaissance
+    were the mass, psalm, hymn, or motet \u2013 songs with religious text.\r\nAlongside
+    vocal music, instruments and secular music started to become more and more important.
+    Court music became popular. Songs were created, usually about love, like the
+    French chanson, the Italian madrigal, or pieces with a dance rhythm, like a rondo.
+    The instruments you'd typically see during the Renaissance were the lute, viola,
+    organs, flutes, trumpets, drums.\r\n\nSome major game-changing events for Renaissance
+    music were the Reformation process, which also changed music evolution \u2013
+    the Protestant chorale or Protestant religious songs were created, and the invention
+    of printing. This was a huge milestone for musicians as well. The first music
+    printing house started its operation in Venice. Other major centers for music
+    printing in the 16th century included Paris, Antwerp, and Nuremberg.\r\n\nAs
+    for the rockstars of the Renaissance, we're talking about composers from the
+    Flemish center (today's Belgian territories) and France, like Josquin des Prez,
+    Jacob Obrecht, Cl\xE9ment Janequin, Orlando di Lasso, and also Giovanni Pierluigi
+    da Palestrina, Adrian Willaert, Andrea Gabrieli, Giovanni Gabrieli.\r\n\nAnd
+    if you want to get a feel of Renaissance music, check out \"Echo\" by Orlando
+    di Lasso or \"Missa Papae Marcelli\" by Giovanni Pierluigi da Palestrina.\r"
   periodTracks:
   - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
   - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}

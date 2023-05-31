@@ -13,20 +13,39 @@ MonoBehaviour:
   m_Name: JazzAge
   m_EditorClassIdentifier: 
   periodName: Jazz Age
-  image: {fileID: 21300000, guid: bd8293ba2d8aa5549b307afb00d9f700, type: 3}
-  infoText: JAZZ AGE Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-    diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam facilisis
-    in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt bibendum
-    a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur dignissim
-    erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante a, iaculis
-    auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam commodo
-    sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo nec blandit.
-    Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor. In hendrerit
-    risus vitae nisi molestie mollis. Mauris pretium magna pellentesque luctus malesuada.
-    Donec condimentum, nulla eu ornare suscipit, nisl odio gravida mauris, sit amet
-    laoreet mi urna sed arcu. Etiam at tortor a nulla convallis tincidunt id in tellus.
-    Praesent vel tristique justo, eu blandit leo. Mauris gravida orci sed neque fermentum,
-    fermentum semper sem feugiat.
+  imageScriptables: []
+  infoText: "     The Jazz Age, also known as the Roaring Twenties, was a time when
+    jazz music and dance styles became wildly popular, not only in the United States,
+    where it was born, but also across the globe. It's worth noting that, although
+    the Jazz Age is primarily associated with the period between the end of World
+    War I in 1918 and the start of the Great Depression in 1929, the influence of
+    jazz music didn't stop there, but continued to be significant, overlapping into
+    subsequent musical periods.\n\r\nThe war was over, the economy was booming, and
+    folks were just ready to have a good time. And jazz? It was the soundtrack to
+    all of that. Born in the African American communities of New Orleans, jazz music
+    broke many of the rules of traditional Western music. The rhythm, the improvisation,
+    the soul \u2013 it was unlike anything people had heard before. It was innovative,
+    lively, and fun, just like the decade itself.\r\n\r\nThe advent of the Jazz Age
+    also marked a shift towards a more liberal society. People were pushing boundaries
+    and breaking societal norms. Women, known as flappers, were wearing shorter dresses,
+    bobbing their hair, and enjoying a newfound freedom. Jazz, with its vibrant energy
+    and disregard for musical conventions, perfectly mirrored these societal changes.\r\n\r\nIn
+    this era, the star power of artists like Louis Armstrong and Duke Ellington was
+    on the rise. They were not just musicians; they were influencers who played a
+    huge role in spreading jazz music and culture. Jazz clubs were springing up in
+    cities everywhere, and people couldn't get enough of the new sound. Armstrong's
+    innovative trumpet playing and warm, charismatic voice, along with Ellington's
+    genius as a composer and band leader, left an indelible mark on the music world.
+    Their impact on jazz is immeasurable and continues to inspire musicians today.\r\n\r\nBut
+    it wasn't all smooth sailing. While the Jazz Age was a time of great cultural
+    growth and social change, it was also a time of racial tension and class struggle.
+    Despite these challenges, or perhaps because of them, jazz continued to evolve,
+    influence and inspire, making its mark as one of the most significant cultural
+    movements of the 20th century. And even after the Wall Street crash in 1929 signalled
+    the end of the Roaring Twenties, jazz didn't miss a beat. It continued to grow,
+    shaping and being shaped by the world around it.\r\n\r\nSome great tunes from
+    this era to check out: \"West End Blues\" by Louis Armstrong and \"It Don't Mean
+    a Thing (If It Ain't Got That Swing)\" by Duke Ellington."
   periodTracks:
   - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
   - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}

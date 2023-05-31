@@ -12,21 +12,44 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1c6e7e4d827f284c84e249b4bfa35e6, type: 3}
   m_Name: Early20th
   m_EditorClassIdentifier: 
-  periodName: Eartly 20th Century
-  image: {fileID: 21300000, guid: 3f1be6e4397e8dc448f8f3601c8a9b0a, type: 3}
-  infoText: EARLY 20th CENTURY Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Aliquam diam velit, semper vitae justo vitae, bibendum pellentesque turpis.
-    Aliquam facilisis in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet
-    tincidunt bibendum a nisi. Cras efficitur pretium magna ut dignissim. Mauris
-    consectetur dignissim erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet
-    ac ante a, iaculis auctor odio. Morbi posuere, odio sit amet lacinia iaculis,
-    eros diam commodo sem, quis ultricies eros orci id elit. Phasellus malesuada
-    luctus justo nec blandit. Nullam vitae turpis dignissim, commodo eros vitae,
-    bibendum tortor. In hendrerit risus vitae nisi molestie mollis. Mauris pretium
-    magna pellentesque luctus malesuada. Donec condimentum, nulla eu ornare suscipit,
-    nisl odio gravida mauris, sit amet laoreet mi urna sed arcu. Etiam at tortor
-    a nulla convallis tincidunt id in tellus. Praesent vel tristique justo, eu blandit
-    leo. Mauris gravida orci sed neque fermentum, fermentum semper sem feugiat.
+  periodName: Early XXth Century
+  imageScriptables: []
+  infoText: "The early 20th century was a fascinating time for music, as composers
+    began exploring paths less traveled by their predecessors. One such avenue was
+    atonal music, a radical departure from traditional tonality that defied expectations.
+    Think of composers like Arnold Schoenberg, who broke away from conventional tonal
+    harmony and delivered compositions that kept listeners on their toes.\r\n\nThis
+    era also saw Western music embracing influences from around the globe. A prime
+    example is Claude Debussy, who was profoundly influenced by the sound of gamelan
+    music from Bali and Java. His compositions blend Western and Eastern elements,
+    resulting in a unique musical style that many associate with the impressionist
+    movement.\r\n\nAnd let's not forget Igor Stravinsky. His ballet score for \"The
+    Rite of Spring\" was a game-changer. Stravinsky's daring musical approach in
+    this piece was so revolutionary, that its premiere sparked a riot amongst the
+    audience.\r\n\nThe dawn of the 20th century was a time of fresh ideas and bold
+    experimentation in music, but it was also a time of significant upheaval. World
+    War I, happening from 1914 to 1918, cast a long shadow over the era. The war
+    brought about drastic changes in society, and these shifts were reflected in
+    the music of the time. Composers began to express the complexity of the human
+    experience, including the profound pain and uncertainty brought about by the
+    war.\r\n\nHowever, from the ashes of war, a creative spark was ignited. The post-war
+    period saw the emergence of jazz from America, which would later give birth to
+    the Jazz Age. Artists like Louis Armstrong and Ella Fitzgerald started making
+    waves with their soulful and innovative sounds, laying the foundation for many
+    popular music genres to come, crafting a distinct and dynamic musical language
+    that was all about feeling and spontaneity. This fusion of various music styles
+    led to the birth of big band swing, which became wildly popular and marked an
+    important milestone in the Jazz Age.\r\n\nAnother crucial development of the
+    early 20th century was the birth of electronic music. This was truly groundbreaking,
+    as it opened up a whole new sound world previously unimaginable. Composers such
+    as Edgard Var\xE8se began experimenting with electronic instruments and new technologies,
+    resulting in unique compositions that broadened the horizons of what music could
+    be. Also worth noting is the Theremin, one of the first electronic musical instruments,
+    invented by Leon Theremin. It was played without physical contact and had a distinctive
+    sound that's often associated with eerie, sci-fi movie soundtracks.\r\n\nIn summary,
+    the early 20th century was an era marked by trailblazing innovations and genre-blending
+    experimentations, resulting in a rich tapestry of musical expressions that continue
+    to influence music to this day.\r\n"
   periodTracks:
   - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
   - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}

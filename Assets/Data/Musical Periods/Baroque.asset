@@ -14,20 +14,49 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   periodName: Baroque
   imageScriptables: []
-  infoText: BAROQUE Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-    diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam facilisis
-    in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt bibendum
-    a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur dignissim
-    erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante a, iaculis
-    auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam commodo
-    sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo nec blandit.
-    Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor. In hendrerit
-    risus vitae nisi molestie mollis. Mauris pretium magna pellentesque luctus malesuada.
-    Donec condimentum, nulla eu ornare suscipit, nisl odio gravida mauris, sit amet
-    laoreet mi urna sed arcu. Etiam at tortor a nulla convallis tincidunt id in tellus.
-    Praesent vel tristique justo, eu blandit leo. Mauris gravida orci sed neque fermentum,
-    fermentum semper sem feugiat.
+  infoText: "     The Baroque era in music kicked off with the first-ever opera (then
+    called 'dramma per musica') being performed in 1600. It was a work called \"Dafne\"
+    by Jacopo Peri. The era wrapped up with the death of Baroque music master Johann
+    Sebastian Bach in 1750.\n\r\nEarly on, what set Baroque apart from the Renaissance
+    era was that it added a whole lot of emotion to music. They created a new style
+    called accompanied monody, which was a break away from the complex polyphonic
+    vocal music of the Renaissance. Instead of choirs and lots of singers, there
+    was one soloist and an accompanying instrument. This is where the harpsichord,
+    one of the key instruments of the Baroque era, started to shine (this is the
+    older sibling of the piano, which was created later). The harpsichord was used
+    to play the basso continuo, also known as the figured bass. Meanwhile, the singer
+    would perform the vocal part, full of dramatic, emotion-packed singing and spoken
+    word. This style was mainly used in early Baroque operas and was used by creators
+    like the composers of the Florentine Camerata and Claudio Monteverdi.\n\r\nAs
+    time went on, opera continued to evolve and became one of the most important
+    types of music that used both voice and instruments (there were also other types,
+    like cantatas, oratorios, and passions). But, for the first time in music history,
+    instrumental music started to take center stage.\n\r\nNew types of music popped
+    up, like instrumental concerts featuring a main solo instrument and an accompanying
+    orchestra, the concerto grosso where two groups of instruments would have a musical
+    dialogue, and the sonata, a genre for one (or sometimes two) solo instruments.
+    Technology for making instruments got better, with workshops making violins,
+    violas, lutes. High-born folks were learning to play instruments, dance suites
+    were played by instrumental ensembles at courts, and there was a blossoming of
+    virtuosity in playing. The Baroque period was definitely all about the instruments.\r\n\nAnother
+    major development was the introduction of a new system of harmony - functional
+    harmony. From then on, compositions didn't rely on the modal scale system known
+    since ancient times, but on the major-minor system and variations of the two
+    basic scales (major and minor) along with keys and degrees. This system was developed
+    by music theorist and composer Jean-Philippe Rameau, and it was perfectly illustrated
+    in practice by the most famous Baroque composer - Johann Sebastian Bach. Bach
+    composed 'Das Wohltemperierte Klavier', which is a collection of pieces for each
+    key, created for the harpsichord. This collection contains 48 preludes and fugues
+    and is still a must-learn for any pianist today.\r\n\nThe most important composer
+    of the Baroque era was the aforementioned Johann Sebastian Bach - one of the
+    most significant musical creators of all time. He composed over a thousand pieces,
+    and was a musical genius. He created loads of works for the harpsichord and organ,
+    including the famous Toccata and Fugue in D minor, St. Matthew Passion, Mass
+    in B minor, Brandenburg Concertos and many others.\r\n\nAnother big name from
+    this era was George Frideric Handel, the composer of the oratorio 'Messiah' which
+    has the famous 'Hallelujah' as one of its parts. There was also Antonio Vivaldi
+    - a brilliant violinist, known for his 'Four Seasons' cycle.\r"
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: fb1590d48f8cd9446b7c5b80f22afc6f, type: 3}
+  - {fileID: 8300000, guid: 7f5f03c9d6736444eb103100cf992ceb, type: 3}
+  - {fileID: 8300000, guid: 2ab17ff7747af6d4699098ed591ba46c, type: 3}

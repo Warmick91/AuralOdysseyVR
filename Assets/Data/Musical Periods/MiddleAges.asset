@@ -16,19 +16,40 @@ MonoBehaviour:
   imageScriptables:
   - {fileID: 11400000, guid: da10235666e4cac46810dbf264d41e2a, type: 2}
   - {fileID: 11400000, guid: fd431116bab2c94449c0bd408cec91f4, type: 2}
-  infoText: MIDDLE AGES Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aliquam diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam
-    facilisis in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt
-    bibendum a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur
-    dignissim erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante
-    a, iaculis auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam
-    commodo sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo
-    nec blandit. Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor.
-    In hendrerit risus vitae nisi molestie mollis. Mauris pretium magna pellentesque
-    luctus malesuada. Donec condimentum, nulla eu ornare suscipit, nisl odio gravida
-    mauris, sit amet laoreet mi urna sed arcu. Etiam at tortor a nulla convallis
-    tincidunt id in tellus. Praesent vel tristique justo, eu blandit leo. Mauris
-    gravida orci sed neque fermentum, fermentum semper sem feugiat.
+  infoText: "     The Middle Ages in European culture span from the 5th to the 15th
+    century. The exact start and end dates aren't set in stone, but people usually
+    mark the fall of the Western Roman Empire in 476 AD as the beginning, while the
+    end is associated with the emergence of humanist and Renaissance ideas in the
+    early 15th century.\r\n\nMost of the art born in the Middle Ages, including music,
+    was closely tied to Christian philosophy and the rituals of church liturgy. This
+    is why many of the works from this time are anonymous. The mindset was more about
+    creating to honor God, rather than for the recognition of the artist. Another
+    interesting tidbit is how music was seen in the Middle Ages - as a science, part
+    of the group of mathematical disciplines.\r\n\nTypical features of medieval music
+    include monophony, meaning a melody originally had only one voice, no accompaniment.
+    Think of an entire choir singing in unison - that's what we call Gregorian chant.
+    Polyphony, or having two, then three, and four voices in compositions, started
+    to show up from the 9th century. When a piece has several voices playing together,
+    we call that texture polyphony. Back in the Middle Ages, they didn't have musical
+    notes as we know them today. Instead, they wrote neumes, initially without the
+    staff, but this notation got more and more refined over time. The Middle Ages
+    also gave us solmization, or the famous do, re, mi..., thanks to the theorist
+    Guido of Arezzo. The hymn to John the Baptist, where the first syllables of each
+    word were used by Guido to invent a new singing method \u2013 solmization.\r\n\nMusic
+    of the Middle Ages was primarily vocal music, performed by the human voice. This
+    was because there was a ban on using instruments in the church (organs were allowed
+    from the 7th century). Also, only men could sing, so the most common ensemble
+    was a male choir a cappella (without instrumental accompaniment). Most of the
+    vocal music created in the Middle Ages was in Latin, the universal language at
+    the time.\r\n\nIn addition to religious and church music, secular music was also
+    created, more for entertainment. It was often made by regular folks and used
+    for fun, dancing, family or court festivities. Professional poets and singers
+    were usually on the move, and they were known by different names depending on
+    where they created. They could be troubadours or Meistersingers. This type of
+    music could be vocal or instrumental, with instruments like the lute, fidel (a
+    kind of primitive violin), flutes or other pipes like shawms, horns, hurdy-gurdies,
+    drums. Medieval songs told stories about everyday life, human labor, romances,
+    great battles, rulers, and brave knights.\r"
   periodTracks:
   - {fileID: 8300000, guid: 308832778b38479479673de94e0180fe, type: 3}
   - {fileID: 8300000, guid: dac9c17b741af0645be243aedca98511, type: 3}

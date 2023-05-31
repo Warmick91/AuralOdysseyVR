@@ -16,19 +16,38 @@ MonoBehaviour:
   imageScriptables:
   - {fileID: 11400000, guid: 197cc977209189a489af603d585ad155, type: 2}
   - {fileID: 11400000, guid: 063e7fc8168834844838d9be72a395b7, type: 2}
-  infoText: ANTIQUITY Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-    diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam facilisis
-    in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt bibendum
-    a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur dignissim
-    erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante a, iaculis
-    auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam commodo
-    sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo nec blandit.
-    Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor. In hendrerit
-    risus vitae nisi molestie mollis. Mauris pretium magna pellentesque luctus malesuada.
-    Donec condimentum, nulla eu ornare suscipit, nisl odio gravida mauris, sit amet
-    laoreet mi urna sed arcu. Etiam at tortor a nulla convallis tincidunt id in tellus.
-    Praesent vel tristique justo, eu blandit leo. Mauris gravida orci sed neque fermentum,
-    fermentum semper sem feugiat.
+  infoText: "     In the early days, music came to life in three main parts of the
+    world: Mesopotamia, Egypt, and Greece. In Mesopotamia, people mostly sang, but
+    they also invented some of the first instruments like the lyre, harp, and flute.
+    Their music was deeply tied to the cosmos - they thought of it as a kind of science,
+    and mostly played it during royal and religious ceremonies.\nIt was here in Mesopotamia
+    where they started studying the spaces between sounds - what we call intervals.
+    They connected these intervals with perfect proportions found in the universe
+    and nature. This way of seeing music as a calculation-based science stayed around
+    until the late Middle Ages.\r\n\nOver in Egypt, they started making music that
+    wasn't just for religious rituals, so secular music was born. That's why we find
+    more instruments from there, like the sistrum (a type of rattle), the Pan flute,
+    harp, lyre, lute, and trumpet. Here, women were also allowed to make music.\r\nBut
+    the real game-changer for European culture was Ancient Greece. Music in Greece
+    was a little different from what we're used to today. It was always combined
+    with dance and poetry to make a kind of mash-up genre (syncretism).\n\n\rMusic
+    was super important for the Greeks - you can tell because it pops up a lot in
+    their mythology, with many myths telling tales about music, instruments, and
+    how they were discovered. Music was everywhere in Greece, in both serious and
+    fun situations. It was played during major national ceremonies, during many processions
+    and festivals where they would sing songs of praise to the gods, and even during
+    the Olympic Games. They also had their own music competition during the Pythian
+    Games in Delphi where contestants sang with or played the kithara (a type of
+    lyre) and the aulos (a type of flute).\n\r\nMusic was also a big part of Greek
+    drama. A soloist and a chorus singing dialogue was the main feature of ancient
+    theater. Since music was seen as a mathematical science, the Greek philosopher
+    Pythagoras played a big part in developing it. He measured the spaces between
+    sounds on a one-string instrument (the monochord), showing that they were a reflection
+    of the harmony of the universe. In Ancient Greece, they also created the first
+    musical scales that were used all the way up until the Baroque period, and they
+    invented the first system of musical notation.\r\n\nThe Greeks had a cool collection
+    of instruments, including the cithara, lyre, harp, psaltery, trumpet, horn, aulos,
+    Pan flute, and the syrinx.\r"
   periodTracks:
   - {fileID: 8300000, guid: 0baa6ded586679245920057871fc2760, type: 3}
   - {fileID: 8300000, guid: 90c899b12a12b0f448131e002472082a, type: 3}

@@ -13,20 +13,41 @@ MonoBehaviour:
   m_Name: Modern
   m_EditorClassIdentifier: 
   periodName: Modern Music
-  image: {fileID: 21300000, guid: bd8293ba2d8aa5549b307afb00d9f700, type: 3}
-  infoText: MODERN Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-    diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam facilisis
-    in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt bibendum
-    a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur dignissim
-    erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante a, iaculis
-    auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam commodo
-    sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo nec blandit.
-    Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor. In hendrerit
-    risus vitae nisi molestie mollis. Mauris pretium magna pellentesque luctus malesuada.
-    Donec condimentum, nulla eu ornare suscipit, nisl odio gravida mauris, sit amet
-    laoreet mi urna sed arcu. Etiam at tortor a nulla convallis tincidunt id in tellus.
-    Praesent vel tristique justo, eu blandit leo. Mauris gravida orci sed neque fermentum,
-    fermentum semper sem feugiat.
+  imageScriptables: []
+  infoText: "Fasten your seatbelts, folks, because we're venturing into the pulsating
+    world of modern music, stretching from the 80s up to the present day. And boy,
+    has it been an electrifying ride!\r\n\r\nThe 80s started off with a bang, bringing
+    with it the synth-pop revolution. Artists like Depeche Mode, The Human League,
+    and Duran Duran created a unique blend of electronic music and pop, sprinkled
+    with a hint of punk attitude. At the same time, pop icons like Michael Jackson
+    and Madonna redefined what it meant to be a superstar, blending catchy tunes
+    with highly visual performances and groundbreaking music videos. And let's not
+    forget the heavy metal bands like Iron Maiden and Metallica who were sending
+    shockwaves through the world of rock.\r\n\r\nAs we moved into the 90s, grunge
+    and alternative rock bands such as Nirvana, Pearl Jam, and Radiohead broke onto
+    the scene, serving up a fresh, edgy sound that appealed to a generation yearning
+    for authenticity. Hip hop also came into its own, with artists like Tupac, Notorious
+    B.I.G, and Jay-Z catapulting the genre into mainstream consciousness. Meanwhile,
+    pop music continued to evolve, with the emergence of boy bands and girl groups
+    like the Spice Girls and Backstreet Boys.\r\n\r\nThe turn of the millennium brought
+    new music technology that radically changed the game. The rise of the internet
+    and digital music platforms like iTunes and later Spotify, revolutionized the
+    way we consume music. This enabled a broader range of artists to reach an international
+    audience, giving rise to a truly global music culture.\r\n\r\nIn the past couple
+    of decades, we've seen the lines between genres blur even further, with artists
+    like Beyonc\xE9, Taylor Swift, and Drake experimenting with different styles
+    and creating unique sounds. The growing influence of electronic music has also
+    spawned new genres like EDM, with DJs like David Guetta and Martin Garrix becoming
+    household names.\r\n\r\nAnd we can't talk about modern music without mentioning
+    the rise of K-Pop, with bands like BTS and Blackpink taking the world by storm,
+    demonstrating the global reach and influence of music today.\r\n\r\nIn conclusion,
+    the modern era of music is a melting pot of styles, genres, and cultures. It's
+    a fascinating testament to the power of music to evolve, adapt, and continually
+    captivate audiences worldwide. Indeed, music has spun an intricate, ever-changing
+    symphony through the ages, and today, with its rich tapestry of sounds from every
+    corner of the globe, it hits all the right notes in a universal language that
+    keeps us all tuned in, showing us that the beat, truly, goes on and the ride
+    is far from over!"
   periodTracks:
   - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
   - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}

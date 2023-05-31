@@ -13,20 +13,63 @@ MonoBehaviour:
   m_Name: RockAndRoll
   m_EditorClassIdentifier: 
   periodName: Rock 'n' Roll
-  image: {fileID: 21300000, guid: 3f1be6e4397e8dc448f8f3601c8a9b0a, type: 3}
-  infoText: ROCK AND ROLL Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aliquam diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam
-    facilisis in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt
-    bibendum a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur
-    dignissim erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante
-    a, iaculis auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam
-    commodo sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo
-    nec blandit. Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor.
-    In hendrerit risus vitae nisi molestie mollis. Mauris pretium magna pellentesque
-    luctus malesuada. Donec condimentum, nulla eu ornare suscipit, nisl odio gravida
-    mauris, sit amet laoreet mi urna sed arcu. Etiam at tortor a nulla convallis
-    tincidunt id in tellus. Praesent vel tristique justo, eu blandit leo. Mauris
-    gravida orci sed neque fermentum, fermentum semper sem feugiat.
+  imageScriptables: []
+  infoText: 'Moving into the Rock ''n'' Roll era, we''re looking at the period from
+    the 1950s to the early 1960s. This was a time when a seismic shift in popular
+    music was set in motion, introducing the world to the rebellious spirit and energetic
+    rhythms of rock ''n'' roll.
+
+    
+
+    Prominent figures like Elvis Presley,
+    Chuck Berry, Jerry Lee Lewis, and Little Richard truly defined this period. Elvis,
+    with his unique style and charisma, turned heads with hits like "Hound Dog" and
+    "Jailhouse Rock". His influence, alongside other artists, didn''t just shake
+    up the music scene - it also had a profound effect on aspects of culture such
+    as fashion, attitudes, and language.
+
+    
+
+    It''s important to note the
+    influence of African-American music traditions in the emergence of rock ''n''
+    roll. Styles like blues and rhythm & blues significantly contributed to the formation
+    of this new musical direction, bridging racial divides in the process.
+
+    
+
+    The
+    Rock ''n'' Roll era was characterized by youthful rebellion and an energetic
+    spirit, and its legacy still echoes in many forms of music today. It was a significant
+    milestone in the progression of music, leading us towards new styles and genres
+    that would develop in the decades that followed.
+
+
+    As the Rock ''n'' Roll
+    era continued, the music started to diversify. On one hand, you had artists like
+    Buddy Holly and The Everly Brothers who leaned towards pop, making rock ''n''
+    roll more accessible to a wider audience. On the other hand, you had edgier rock
+    ''n'' roll musicians like Eddie Cochran and Gene Vincent who embodied the rebel
+    ethos that would later become synonymous with rock music.
+
+    
+
+    In the
+    late ''50s and early ''60s, the genre evolved into various subgenres. This was
+    also a time when the industry began targeting teenagers, a relatively new demographic
+    group with disposable income. That said, the rebellious spirit of rock ''n''
+    roll was still very much present in the music of the time. Artists such as The
+    Beatles and The Rolling Stones took inspiration from this era, blending rock
+    ''n'' roll with other genres to create a whole new sound that would help define
+    the next era in music history.
+
+    
+
+    The Rock ''n'' Roll era was more
+    than just a phase in music history; it was a cultural phenomenon that had a major
+    impact on society. It represented a shift in attitudes and a break from tradition
+    that still influences the music world today. The echoes of this era are still
+    heard today in the music of countless artists who continue to be inspired by
+    its vibrant spirit and rebellious undertone.'
   periodTracks:
   - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
   - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}

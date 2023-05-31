@@ -12,21 +12,55 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fb3d47f95a9b9c49b1027420062f693, type: 3}
   m_Name: Romanticism
   m_EditorClassIdentifier: 
-  periodName: Romanticism
-  image: {fileID: 21300000, guid: bd8293ba2d8aa5549b307afb00d9f700, type: 3}
-  infoText: ROMANTIC Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-    diam velit, semper vitae justo vitae, bibendum pellentesque turpis. Aliquam facilisis
-    in tellus ut facilisis. Quisque eu sem ultricies arcu imperdiet tincidunt bibendum
-    a nisi. Cras efficitur pretium magna ut dignissim. Mauris consectetur dignissim
-    erat, at placerat leo tempus eu. Morbi arcu ante, imperdiet ac ante a, iaculis
-    auctor odio. Morbi posuere, odio sit amet lacinia iaculis, eros diam commodo
-    sem, quis ultricies eros orci id elit. Phasellus malesuada luctus justo nec blandit.
-    Nullam vitae turpis dignissim, commodo eros vitae, bibendum tortor. In hendrerit
-    risus vitae nisi molestie mollis. Mauris pretium magna pellentesque luctus malesuada.
-    Donec condimentum, nulla eu ornare suscipit, nisl odio gravida mauris, sit amet
-    laoreet mi urna sed arcu. Etiam at tortor a nulla convallis tincidunt id in tellus.
-    Praesent vel tristique justo, eu blandit leo. Mauris gravida orci sed neque fermentum,
-    fermentum semper sem feugiat.
+  periodName: XIXth Century
+  imageScriptables: []
+  infoText: "     In Europe, the 19th century in music started with a few different
+    events. Some folks might say it all started when Franz Schubert dropped his song
+    \"The Erlking\" in 1815 or when Ludwig van Beethoven checked out in 1827. Pinning
+    down when this whole period ended is a bit trickier, though. There's a whole
+    bunch of stuff that went down, like when Claude Debussy brought Impressionism
+    to music \u2013 a style that was a total 180 from the vibes at the end of the
+    century. His \"Prelude to the Afternoon of a Faun\" in 1894 was a real game-changer.\r\n\nNow,
+    the music from this century is usually split into two major trends: ROMANTICISM,
+    which kinda ruled the first half of the century, and NEO-ROMANTICISM, which took
+    over for the second half and into the final years.\r\n\nWhat's cool about the
+    music from this time was that it was all about the composer's unique style and
+    what they were into. The focus was on inspiration and feeling the music, man.
+    Composers weren't just writing tunes because some king or bigwig told them to;
+    they were writing from the heart, trying to share their emotions. They still
+    used classical techniques, but they kicked things up a notch: longer pieces,
+    bigger orchestras that made some serious noise, more contrast, more feels. They
+    also played around with harmony until they totally blew up the whole major-minor
+    key thing.\r\n\nThis was also the time when program music \u2013 or \"thematic
+    music\" \u2013 was born. This kind of music came with a plan, a description,
+    titles, the works. Think of \"The Moldau\" by Bed\u0159ich Smetana, this epic
+    musical story about the journey of the biggest river in Czech and the landscapes
+    it cuts through. On the flip side, you've got absolute music like Wolfgang Amadeus
+    Mozart's Piano Sonata No. 16 in C major, K. 545, which doesn't follow any specific
+    story or plan.\r\n\nWhen we look at how music developed in the 19th century,
+    there's a big emphasis on different national trends or schools. Composers all
+    over Europe started using their music to show off their national tradition, history,
+    and identity. So, we've got the German, Italian, French, Russian, Czech, Finnish,
+    Norwegian, Spanish, Slovak, Ukrainian, and Polish styles, all doing their own
+    thing. They were using folk music, national instruments, dance rhythms, and their
+    native languages to create vocal and instrumental pieces like songs or operas.
+    And this wasn't just about the music; it was a response to what was happening
+    in the world. The 19th century saw a lot of national liberation movements, and
+    music was a way for people to hold onto their national identity during those
+    tough times.\r\n\nDuring this time, music was all about the feels. It was about
+    expressing emotions, dealing with anxiety, exploring themes like loneliness,
+    confusion, longing, romance, mystical experiences, fascination with nature, transcendence,
+    dreams, you name it. There was also a big resurgence of interest in religious
+    music.\r\n\nThe 19th-century composers gave us a lot of piano, violin, symphonic,
+    chamber, vocal, and opera music. They played around with all sorts of genres:
+    symphony, symphonic poem, instrumental concerto, nocturne, etude, ballade, sonata,
+    song, opera. The list goes on and on. And the music from this time? Man, it's
+    rich. It's so rich, in fact, that it's still the basis for a lot of the music
+    we listen to in concerts today.\r\nAnd we can't forget about the big names of
+    this time: Robert Schumann, Franz Schubert, Felix Mendelssohn-Bartholdy, Fryderyk
+    Chopin, Franz Liszt, Hector Berlioz, Niccol\xF2 Paganini, Pyotr Tchaikovsky,
+    Richard Wagner, Gustav Mahler, and so many more. They were the ones who really
+    defined the 19th century in music.\r"
   periodTracks:
   - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
   - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
