@@ -118,6 +118,7 @@ public class MusicControlPanel : MonoBehaviour
         if ((dropdownTracks.value < periodTracks.Count))
         {
             mainAudioSource.clip = periodTracks[dropdownTracks.value];
+            mainAudioSource.time = 0;
             mainAudioSource.Play();
         }
     }
