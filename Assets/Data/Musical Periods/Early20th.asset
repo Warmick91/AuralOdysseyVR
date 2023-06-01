@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Early20th
   m_EditorClassIdentifier: 
   periodName: Early XXth Century
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: 911bc6134dfc9c44a8599ad806a86e98, type: 2}
+  - {fileID: 11400000, guid: a9bb9e383c378164da01ac0cb66fcf7d, type: 2}
+  - {fileID: 11400000, guid: e15197e50d7886049a8d2de351ce1be1, type: 2}
   infoText: "The early 20th century was a fascinating time for music, as composers
     began exploring paths less traveled by their predecessors. One such avenue was
     atonal music, a radical departure from traditional tonality that defied expectations.

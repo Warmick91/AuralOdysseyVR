@@ -13,7 +13,11 @@ MonoBehaviour:
   m_Name: Modern
   m_EditorClassIdentifier: 
   periodName: Modern Music
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: d1e0048ec6cb9f340b61e3fd4dae8f9d, type: 2}
+  - {fileID: 11400000, guid: 6e157e96e92af0147ab4b3b249af5d35, type: 2}
+  - {fileID: 11400000, guid: fec6791cb77aa2e4180afc57b925088f, type: 2}
+  - {fileID: 11400000, guid: 9050c8b56004235459cf507277f1d124, type: 2}
   infoText: "Fasten your seatbelts, folks, because we're venturing into the pulsating
     world of modern music, stretching from the 80s up to the present day. And boy,
     has it been an electrifying ride!\r\n\r\nThe 80s started off with a bang, bringing
@@ -49,6 +53,7 @@ MonoBehaviour:
     keeps us all tuned in, showing us that the beat, truly, goes on and the ride
     is far from over!"
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: c5ac6d87100da634abf4683c5a5c6397, type: 3}
+  - {fileID: 8300000, guid: d7851f5f81e019242ade60c5ed6cfc58, type: 3}
+  - {fileID: 8300000, guid: 6e8810d7116a00c4eadf911e4fda72ea, type: 3}
+  - {fileID: 8300000, guid: 50da25dddcddcea4fbdebef8ca10430d, type: 3}

@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Baroque
   m_EditorClassIdentifier: 
   periodName: Baroque
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: 401143e45ff63db419f2e349a7717eb4, type: 2}
+  - {fileID: 11400000, guid: 2462a539f9e49f744ad59ca744842d9d, type: 2}
+  - {fileID: 11400000, guid: 1a68152d91fe8234ea6272a5c8295e9c, type: 2}
   infoText: "     The Baroque era in music kicked off with the first-ever opera (then
     called 'dramma per musica') being performed in 1600. It was a work called \"Dafne\"
     by Jacopo Peri. The era wrapped up with the death of Baroque music master Johann

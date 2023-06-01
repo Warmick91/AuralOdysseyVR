@@ -13,57 +13,59 @@ MonoBehaviour:
   m_Name: Disco
   m_EditorClassIdentifier: 
   periodName: Disco Era
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: 6e065a3c45c5fa246846602b3b3c7442, type: 2}
+  - {fileID: 11400000, guid: 38adb69e899627e40959813f8b93a02b, type: 2}
+  - {fileID: 11400000, guid: f387bcbd6e8547145807672fee0c33ce, type: 2}
   infoText: 'The Disco Era was a flashy period in music history that emerged in the
     mid-1970s and held sway until the early 1980s. Disco music, characterized by
     its upbeat tempo, syncopated basslines, and orchestral arrangements, was a music
     style crafted for the dancefloor.
 
-    
 
-    The genre originated from a fusion
-    of soul, funk, and Latin music, and soon became synonymous with glitzy fashion,
+
+    The genre originated from a fusion of
+    soul, funk, and Latin music, and soon became synonymous with glitzy fashion,
     roller discos, and the club scene. The pulse of the disco beat found its home
     in the heart of cities like New York and Philadelphia, in clubs such as Studio
     54, where people from all walks of life came together to lose themselves in the
     music.
 
-    
-
-    The disco sound was driven by a four-on-the-floor beat, an
-    unwavering bass drum pattern that provided a steady rhythm for dancers. This,
-    combined with funky bass lines, sweeping orchestral arrangements, and soaring
-    vocals, created an energetic and glamorous soundtrack for the era.
-
-    
-
-    One
-    iconic element of this period was the "Disco Diva." Artists like Gloria Gaynor,
-    Donna Summer, and Diana Ross not only ruled the charts but also became emblematic
-    figures of the era, with their powerful vocals and flamboyant style. Disco was
-    also significant in elevating the role of the DJ, as DJs became vital in creating
-    the right atmosphere and energy level for the crowd.
-
-    
-
-    Disco was not
-    just a genre of music but also a cultural phenomenon. It was closely tied with
-    the visual media and fashion of the time, contributing to its iconic status.
-    Movies like "Saturday Night Fever" starring John Travolta not only popularized
-    disco music but also brought the style, dance moves, and attitude of the disco
-    culture into mainstream consciousness. Moreover, fashion trends such as bell-bottoms,
-    platform shoes, sequins, and colorful polyester suits became emblematic of the
-    era.
 
 
-    Despite its relatively brief dominance, the disco era left a profound
-    impact. It fostered an environment of inclusivity, as it was embraced by various
-    communities. It also laid the groundwork for future genres such as house, techno,
-    and electronic dance music. From Daft Punk to Bruno Mars, you can still hear
-    the resonances of disco in contemporary pop music. While the era of disco balls
-    and bell-bottom pants may be over, the spirit of disco, with its love for the
-    exuberant and danceable, lives on.'
+    The disco sound was driven by a four-on-the-floor beat, an unwavering
+    bass drum pattern that provided a steady rhythm for dancers. This, combined with
+    funky bass lines, sweeping orchestral arrangements, and soaring vocals, created
+    an energetic and glamorous soundtrack for the era.
+
+
+
+    One iconic element
+    of this period was the "Disco Diva." Artists like Gloria Gaynor, Donna Summer,
+    and Diana Ross not only ruled the charts but also became emblematic figures of
+    the era, with their powerful vocals and flamboyant style. Disco was also significant
+    in elevating the role of the DJ, as DJs became vital in creating the right atmosphere
+    and energy level for the crowd.
+
+
+
+    Disco was not just a genre of music but
+    also a cultural phenomenon. It was closely tied with the visual media and fashion
+    of the time, contributing to its iconic status. Movies like "Saturday Night Fever"
+    starring John Travolta not only popularized disco music but also brought the
+    style, dance moves, and attitude of the disco culture into mainstream consciousness.
+    Moreover, fashion trends such as bell-bottoms, platform shoes, sequins, and colorful
+    polyester suits became emblematic of the era.
+
+
+    Despite its relatively brief
+    dominance, the disco era left a profound impact. It fostered an environment of
+    inclusivity, as it was embraced by various communities. It also laid the groundwork
+    for future genres such as house, techno, and electronic dance music. From Daft
+    Punk to Bruno Mars, you can still hear the resonances of disco in contemporary
+    pop music. While the era of disco balls and bell-bottom pants may be over, the
+    spirit of disco, with its love for the exuberant and danceable, lives on.'
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: 6d3e00119a625e244a9e58226f51903e, type: 3}
+  - {fileID: 8300000, guid: 78fdaaf6556a70444a2d28bab0a31ddf, type: 3}
+  - {fileID: 8300000, guid: 8830827e5b537af45b35b55f03044b78, type: 3}

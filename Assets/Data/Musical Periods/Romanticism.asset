@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Romanticism
   m_EditorClassIdentifier: 
   periodName: XIXth Century
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: 0ed0959ab1bac414fb6e69da4591de71, type: 2}
+  - {fileID: 11400000, guid: 95b16a3f29aaa574393496b819337e3e, type: 2}
+  - {fileID: 11400000, guid: b4f2d81e176497f42849e439eadd644a, type: 2}
   infoText: "     In Europe, the 19th century in music started with a few different
     events. Some folks might say it all started when Franz Schubert dropped his song
     \"The Erlking\" in 1815 or when Ludwig van Beethoven checked out in 1827. Pinning
@@ -62,6 +65,6 @@ MonoBehaviour:
     Richard Wagner, Gustav Mahler, and so many more. They were the ones who really
     defined the 19th century in music.\r"
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: 0c2f7ec1e8a839e4e8923bdf7779c127, type: 3}
+  - {fileID: 8300000, guid: bf0be6dfd6fa7b946940c56fbdf5dbe0, type: 3}
+  - {fileID: 8300000, guid: ac27c5a50102cff4c9087582234918ec, type: 3}

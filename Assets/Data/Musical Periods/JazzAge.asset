@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: JazzAge
   m_EditorClassIdentifier: 
   periodName: Jazz Age
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: a876eaa379e8ebf4bba9a9f1e69fc741, type: 2}
+  - {fileID: 11400000, guid: f110e417f73cf53469f321e3ef5ccc2a, type: 2}
   infoText: "     The Jazz Age, also known as the Roaring Twenties, was a time when
     jazz music and dance styles became wildly popular, not only in the United States,
     where it was born, but also across the globe. It's worth noting that, although
@@ -47,6 +49,5 @@ MonoBehaviour:
     this era to check out: \"West End Blues\" by Louis Armstrong and \"It Don't Mean
     a Thing (If It Ain't Got That Swing)\" by Duke Ellington."
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: 39d6b9d482358d6479d7bdb5f9e772e9, type: 3}
+  - {fileID: 8300000, guid: f45eb091662ac394bb3f23e60dfdba5c, type: 3}

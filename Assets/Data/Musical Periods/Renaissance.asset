@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Renaissance
   m_EditorClassIdentifier: 
   periodName: Renaissance
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: e283fd7907e79034a97265d8998e191a, type: 2}
+  - {fileID: 11400000, guid: 167b79acc6909bf4b90d5d953b3c788d, type: 2}
+  - {fileID: 11400000, guid: 1477903d998988b44af3a7ff593766c3, type: 2}
   infoText: "     The Renaissance in music happened from the first half of the 15th
     century and ran until around 1600. This period was when the opera genre started
     to pop up and marked a new chapter in music history.\r\n\nThe music of the Renaissance
@@ -48,6 +51,6 @@ MonoBehaviour:
     if you want to get a feel of Renaissance music, check out \"Echo\" by Orlando
     di Lasso or \"Missa Papae Marcelli\" by Giovanni Pierluigi da Palestrina.\r"
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: 843b9cd4be90e044fbdf00326b98b66a, type: 3}
+  - {fileID: 8300000, guid: 2c7b8616e79587249a4f42ab26ece86a, type: 3}
+  - {fileID: 8300000, guid: c073f8f5cd08bb84f941f631731c9f9e, type: 3}

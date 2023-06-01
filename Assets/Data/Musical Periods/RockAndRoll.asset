@@ -13,33 +13,32 @@ MonoBehaviour:
   m_Name: RockAndRoll
   m_EditorClassIdentifier: 
   periodName: Rock 'n' Roll
-  imageScriptables: []
+  imageScriptables:
+  - {fileID: 11400000, guid: d2bb81c2074f4be49a01a78e558c3b90, type: 2}
+  - {fileID: 11400000, guid: 75b489d73c143324cabbfb2d7f248762, type: 2}
   infoText: 'Moving into the Rock ''n'' Roll era, we''re looking at the period from
     the 1950s to the early 1960s. This was a time when a seismic shift in popular
     music was set in motion, introducing the world to the rebellious spirit and energetic
     rhythms of rock ''n'' roll.
 
-    
 
-    Prominent figures like Elvis Presley,
-    Chuck Berry, Jerry Lee Lewis, and Little Richard truly defined this period. Elvis,
+    Prominent figures like Elvis Presley, Chuck
+    Berry, Jerry Lee Lewis, and Little Richard truly defined this period. Elvis,
     with his unique style and charisma, turned heads with hits like "Hound Dog" and
     "Jailhouse Rock". His influence, alongside other artists, didn''t just shake
     up the music scene - it also had a profound effect on aspects of culture such
     as fashion, attitudes, and language.
 
-    
 
-    It''s important to note the
-    influence of African-American music traditions in the emergence of rock ''n''
-    roll. Styles like blues and rhythm & blues significantly contributed to the formation
-    of this new musical direction, bridging racial divides in the process.
+    It''s important to note the influence
+    of African-American music traditions in the emergence of rock ''n'' roll. Styles
+    like blues and rhythm & blues significantly contributed to the formation of this
+    new musical direction, bridging racial divides in the process.
 
-    
 
-    The
-    Rock ''n'' Roll era was characterized by youthful rebellion and an energetic
-    spirit, and its legacy still echoes in many forms of music today. It was a significant
+    The Rock
+    ''n'' Roll era was characterized by youthful rebellion and an energetic spirit,
+    and its legacy still echoes in many forms of music today. It was a significant
     milestone in the progression of music, leading us towards new styles and genres
     that would develop in the decades that followed.
 
@@ -51,26 +50,24 @@ MonoBehaviour:
     ''n'' roll musicians like Eddie Cochran and Gene Vincent who embodied the rebel
     ethos that would later become synonymous with rock music.
 
-    
 
-    In the
-    late ''50s and early ''60s, the genre evolved into various subgenres. This was
-    also a time when the industry began targeting teenagers, a relatively new demographic
-    group with disposable income. That said, the rebellious spirit of rock ''n''
-    roll was still very much present in the music of the time. Artists such as The
-    Beatles and The Rolling Stones took inspiration from this era, blending rock
-    ''n'' roll with other genres to create a whole new sound that would help define
-    the next era in music history.
+    In the late ''50s
+    and early ''60s, the genre evolved into various subgenres. This was also a time
+    when the industry began targeting teenagers, a relatively new demographic group
+    with disposable income. That said, the rebellious spirit of rock ''n'' roll was
+    still very much present in the music of the time. Artists such as The Beatles
+    and The Rolling Stones took inspiration from this era, blending rock ''n'' roll
+    with other genres to create a whole new sound that would help define the next
+    era in music history.
 
-    
 
-    The Rock ''n'' Roll era was more
-    than just a phase in music history; it was a cultural phenomenon that had a major
-    impact on society. It represented a shift in attitudes and a break from tradition
-    that still influences the music world today. The echoes of this era are still
-    heard today in the music of countless artists who continue to be inspired by
-    its vibrant spirit and rebellious undertone.'
+    The Rock ''n'' Roll era was more than just a phase
+    in music history; it was a cultural phenomenon that had a major impact on society.
+    It represented a shift in attitudes and a break from tradition that still influences
+    the music world today. The echoes of this era are still heard today in the music
+    of countless artists who continue to be inspired by its vibrant spirit and rebellious
+    undertone.'
   periodTracks:
-  - {fileID: 8300000, guid: 7679ce61c4428c24786dfb44fa90899b, type: 3}
-  - {fileID: 8300000, guid: 295ee7fea4c631a4aa3f40998e495465, type: 3}
-  - {fileID: 8300000, guid: ed555370c4968fe4e9f6a04f2482e5d3, type: 3}
+  - {fileID: 8300000, guid: f8ec2c5d06bbf394790cbf1fce5f42cf, type: 3}
+  - {fileID: 8300000, guid: cf9bade2227e8784f80ab3ec50b02ba8, type: 3}
+  - {fileID: 8300000, guid: c0be055ba82ed5a4c952dcec72ea938d, type: 3}
