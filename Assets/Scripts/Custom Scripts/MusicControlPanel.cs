@@ -43,7 +43,7 @@ public class MusicControlPanel : MonoBehaviour
 
     void Update()
     {
-        // Used for testing whether the right track has been loaded and playing. TODO: Remove once the playback feature is done and stable.
+        // May probe useful. Used for testing whether the right track has been loaded and playing.
         //Debug.Log("The main audio source with the track titled " + mainAudioSource.clip.name + " is playing: " + mainAudioSource.isPlaying);
     }
 
